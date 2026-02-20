@@ -1,0 +1,9 @@
+google-adk
+google-genai
+resend
+httpx
+feedparser
+arxiv
+beautifulsoup4
+jinja2
+python-dotenv

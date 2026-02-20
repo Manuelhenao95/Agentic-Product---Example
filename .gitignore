@@ -1,0 +1,30 @@
+# ═══ Secrets & Environment ═══
+.env
+.env.local
+.env.*.local
+
+# ═══ Python ═══
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ═══ Virtual Environment ═══
+.venv/
+venv/
+env/
+
+# ═══ IDE ═══
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# ═══ OS ═══
+Thumbs.db
